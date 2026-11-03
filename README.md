@@ -1,12 +1,12 @@
-# HMH
-
-Bioinformatics research and interactive web application projects.
+> [!NOTE]
+> **Access to Private Projects**  
+> Repositories tagged with `private` are not open for publicity. If you are interested in reviewing the methodology, gaining access, or collaborating on these private projects, please get in touch:
+> - Email: [hmhuongwm@gmail.com](mailto:hmhuongwm@gmail.com)
+> - GitHub: [@hmh-215](https://github.com/hmh-215)
 
 ---
 
-## Bioinformatic analyses
-
-Where bioinformatics and clinical genomics works are maintained.
+# Bioinformatic analyses
 
 <table>
   <tr>
@@ -30,35 +30,13 @@ Where bioinformatics and clinical genomics works are maintained.
   </tr>
 </table>
 
-> [!NOTE]
-> **Access to Private Projects**  
-> Repositories tagged with `private` contain clinical data and ongoing research. If you are interested in reviewing the methodology, gaining access, or collaborating on these private projects, please get in touch:
-> - Email: [hmhuongwm@gmail.com](mailto:hmhuongwm@gmail.com)
-> - GitHub: [@hmh-215](https://github.com/hmh-215)
-
 ---
 
-## Vibe-coding
+# Vibe-coding
 
 Side projects and interactive web applications built through vibe-coding.
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/hmh-215/Acupuncture">
-        <img src="assets/acupuncture.png" alt="Acupuncture" width="100%" />
-      </a>
-      <h3><a href="https://github.com/hmh-215/Acupuncture">acupuncture</a></h3>
-      <p>Interactive 3D visualization of acupuncture meridians, acupoints, and muscle movement kinematics.</p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/hmh-215/guitar_fretboard_visualization">
-        <img src="assets/guitar_fretboard.png" alt="guitar_fretboard_visualization" width="100%" />
-      </a>
-      <h3><a href="https://github.com/hmh-215/guitar_fretboard_visualization">guitar_fretboard_visualization</a></h3>
-      <p>Interactive guitar fretboard visualizer for notes, scales, chord voicings, and accompanying backing tracks.</p>
-    </td>
-  </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/hmh-215/iching">
@@ -77,11 +55,27 @@ Side projects and interactive web applications built through vibe-coding.
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://github.com/hmh-215/Acupuncture">
+        <img src="assets/acupuncture.png" alt="Acupuncture" width="100%" />
+      </a>
+      <h3><a href="https://github.com/hmh-215/Acupuncture">acupuncture</a></h3>
+      <p>Interactive 3D visualization of acupuncture meridians, acupoints, and muscle movement kinematics.</p>
+    </td>
+    <td width="50%" valign="top">
       <a href="https://github.com/hmh-215/human-digestive-anatomy-3d">
         <img src="assets/human_digestive_anatomy.png" alt="human-digestive-anatomy-3d" width="100%" />
       </a>
       <h3><a href="https://github.com/hmh-215/human-digestive-anatomy-3d">human-digestive-anatomy-3d</a></h3>
       <p>Interactive 3D web application for human digestive system anatomy and surgical dissection with concentric histological layers.</p>
+    </td>
+  </tr>
+  <tr>
+     <td width="50%" valign="top">
+      <a href="https://github.com/hmh-215/guitar_fretboard_visualization">
+        <img src="assets/guitar_fretboard.png" alt="guitar_fretboard_visualization" width="100%" />
+      </a>
+      <h3><a href="https://github.com/hmh-215/guitar_fretboard_visualization">guitar_fretboard_visualization</a></h3>
+      <p>Interactive guitar fretboard visualizer for notes, scales, chord voicings, and accompanying backing tracks.</p>
     </td>
     <td width="50%" valign="top">
       <!-- Empty slot for future vibe coding project -->
