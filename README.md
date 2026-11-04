@@ -42,7 +42,7 @@ Side projects and interactive web applications built through vibe-coding.
       <a href="https://github.com/hmh-215/iching">
         <img src="assets/iching.png" alt="iching" width="100%" />
       </a>
-      <h3><a href="https://github.com/hmh-215/iching">iching</a></h3>
+      <h3><a href="https://github.com/hmh-215/iching">iching</a> <img src="https://img.shields.io/badge/private-critical?style=flat-square" alt="private" /></h3>
       <p>Interactive web application for I Ching (Kinh Dich) hexagram casting, transformation analysis, and philosophical lookups.</p>
     </td>
     <td width="50%" valign="top">
