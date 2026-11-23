@@ -48,49 +48,50 @@ Side projects and interactive web applications built through vibe-coding.
 <table>
   <tr>
     <td width="33.33%" valign="top">
+      <a href="https://github.com/hmh-215/iching">
+        <img src="assets/iching.png" alt="iching" width="100%" />
+      </a>
+      <h4><a href="https://github.com/hmh-215/iching">IChing</a> <img src="https://img.shields.io/badge/private-critical?style=flat-square" alt="private" /> <a href="https://iching-ctl-one.vercel.app/"><img src="https://img.shields.io/badge/Live-2ea44f?style=flat-square" alt="Live" /></a></h4>
+      <p><small>Interactive web application for IChing (Kinh Dich) hexagram casting, transformation analysis, and philosophical lookups.</small></p>
+    </td>
+    <td width="33.33%" valign="top">
       <a href="https://github.com/hmh-215/Bioinformatics_flowchart">
         <img src="assets/bioinformatics_flowchart.png" alt="Bioinformatics_flowchart" width="100%" />
       </a>
-      <h4><a href="https://github.com/hmh-215/Bioinformatics_flowchart">Bioinformatics_flowchart</a> <a href="https://hmh-bioinforflowchart.vercel.app"><img src="https://img.shields.io/badge/Live-2ea44f?style=flat-square" alt="Live" /></a></h4>
-      <p><small>FlowDeck: Interactive ISO-5807 bioinformatic pipeline flowchart explorer with tool syntax and CLI help manuals.</small></p>
+      <h4><a href="https://github.com/hmh-215/Bioinformatics_flowchart">Bioinformatics flowchart</a> <img src="https://img.shields.io/badge/private-critical?style=flat-square" alt="private" /> <a href="https://hmh-bioinforflowchart.vercel.app"><img src="https://img.shields.io/badge/Live-2ea44f?style=flat-square" alt="Live" /></a></h4>
+      <p><small>Interactive bioinformatic pipeline flowchart explorer with tool syntax and CLI help manuals.</small></p>
     </td>
     <td width="33.33%" valign="top">
       <a href="https://github.com/hmh-215/ChemOrbital_3D">
         <img src="assets/chemorbital_3d.png" alt="ChemOrbital_3D" width="100%" />
       </a>
-      <h4><a href="https://github.com/hmh-215/ChemOrbital_3D">ChemOrbital_3D</a> <a href="https://hmh-215.github.io/ChemOrbital_3D/"><img src="https://img.shields.io/badge/Live-2ea44f?style=flat-square" alt="Live" /></a></h4>
+      <h4><a href="https://github.com/hmh-215/ChemOrbital_3D">ChemOrbital 3D</a> <a href="https://hmh-215.github.io/ChemOrbital_3D/"><img src="https://img.shields.io/badge/Live-2ea44f?style=flat-square" alt="Live" /></a></h4>
       <p><small>Interactive 3D general chemistry orbital visualizer for atomic and hybrid orbitals, phase signs, and nodal planes.</small></p>
-    </td>
-    <td width="33.33%" valign="top">
-      <a href="https://github.com/hmh-215/guitar_fretboard_visualization">
-        <img src="assets/guitar_fretboard.png" alt="guitar_fretboard_visualization" width="100%" />
-      </a>
-      <h4><a href="https://github.com/hmh-215/guitar_fretboard_visualization">guitar_fretboard_visualization</a> <a href="https://hmh-guitar-fretboard.vercel.app"><img src="https://img.shields.io/badge/Live-2ea44f?style=flat-square" alt="Live" /></a></h4>
-      <p><small>Interactive guitar fretboard visualizer for notes, scales, chord voicings, and accompanying backing tracks.</small></p>
     </td>
   </tr>
   <tr>
     <td width="33.33%" valign="top">
+      <a href="https://github.com/hmh-215/guitar_fretboard_visualization">
+        <img src="assets/guitar_fretboard.png" alt="guitar_fretboard_visualization" width="100%" />
+      </a>
+      <h4><a href="https://github.com/hmh-215/guitar_fretboard_visualization">Guitar Fretboard Visualizer</a> <a href="https://hmh-215.github.io/guitar_fretboard_visualization/"><img src="https://img.shields.io/badge/Live-2ea44f?style=flat-square" alt="Live" /></a></h4>
+      <p><small>Interactive guitar fretboard visualizer for notes, scales, chord voicings, and accompanying backing tracks.</small></p>
+    </td>
+    <td width="33.33%" valign="top">
       <a href="https://github.com/hmh-215/Acupuncture">
         <img src="assets/acupuncture.png" alt="Acupuncture" width="100%" />
       </a>
-      <h4><a href="https://github.com/hmh-215/Acupuncture">acupuncture</a> <a href="https://hmh-acupuncture.vercel.app"><img src="https://img.shields.io/badge/Live-2ea44f?style=flat-square" alt="Live" /></a></h4>
+      <h4><a href="https://github.com/hmh-215/Acupuncture">Acupuncture</a> <a href="https://hmh-215.github.io/Acupuncture/"><img src="https://img.shields.io/badge/Live-2ea44f?style=flat-square" alt="Live" /></a></h4>
       <p><small>Interactive 3D visualization of acupuncture meridians, acupoints, and muscle movement kinematics.</small></p>
     </td>
     <td width="33.33%" valign="top">
       <a href="https://github.com/hmh-215/human-digestive-anatomy-3d">
         <img src="assets/human_digestive_anatomy.png" alt="human-digestive-anatomy-3d" width="100%" />
       </a>
-      <h4><a href="https://github.com/hmh-215/human-digestive-anatomy-3d">human-digestive-anatomy-3d</a> <a href="https://hmh-human-digestive-anatomy-3d.vercel.app"><img src="https://img.shields.io/badge/Live-2ea44f?style=flat-square" alt="Live" /></a></h4>
+      <h4><a href="https://github.com/hmh-215/human-digestive-anatomy-3d">Human Digestive System</a> <a href="https://hmh-215.github.io/human-digestive-anatomy-3d/"><img src="https://img.shields.io/badge/Live-2ea44f?style=flat-square" alt="Live" /></a></h4>
       <p><small>Interactive 3D web application for human digestive system anatomy and concentric histological layers.</small></p>
     </td>
-    <td width="33.33%" valign="top">
-      <a href="https://github.com/hmh-215/iching">
-        <img src="assets/iching.png" alt="iching" width="100%" />
-      </a>
-      <h4><a href="https://github.com/hmh-215/iching">iching</a> <img src="https://img.shields.io/badge/private-critical?style=flat-square" alt="private" /> <a href="https://hmh-iching.vercel.app"><img src="https://img.shields.io/badge/Live-2ea44f?style=flat-square" alt="Live" /></a></h4>
-      <p><small>Interactive web application for I Ching (Kinh Dich) hexagram casting, transformation analysis, and philosophical lookups.</small></p>
-    </td>
+    
   </tr>
 </table>
 
